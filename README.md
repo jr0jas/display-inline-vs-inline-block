@@ -13,7 +13,7 @@ Inline elements:
 
 - Can not have a width and height set
 
--Allow other elements to sit to their left and right.
+- Allow other elements to sit to their left and right.
 
 Inline-block elements:
 
@@ -25,12 +25,12 @@ Inline-block elements:
 
 References:
 
-https://www.youtube.com/watch?v=BrbaNCFSYr0
+- https://www.youtube.com/watch?v=BrbaNCFSYr0
 
-https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block
+- https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block
 
-https://www.w3schools.com/cssref/pr_class_display.asp
+- https://www.w3schools.com/cssref/pr_class_display.asp
 
-https://alligator.io/css/display-inline-vs-inline-block/
+- https://alligator.io/css/display-inline-vs-inline-block/
 
 
